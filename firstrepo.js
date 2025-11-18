@@ -21,7 +21,7 @@ function Divide(a, b) {
 var num = Add(1, 2);
 console.log(num);
 
-var num2 = Subtract(1, 2);
+var num2 = Subtract(3, 10);
 console.log(num2);
 
 var num3 = Multiply(1, 2);
